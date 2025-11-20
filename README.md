@@ -1,0 +1,1 @@
+a python software that uses yolo object detection(you only look once) to detect people in real time a pc is required to run this (!only use in games that dont use kernel anti cheats you can use in roblox, minecraft, csgo, cs2, call of duty warzone)
